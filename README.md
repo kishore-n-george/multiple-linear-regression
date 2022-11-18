@@ -1,9 +1,9 @@
 # Predict the demand for bike sharing.
 
-> Multiple Linear Regression
-    > to identify the predictors,
-    > to build a model,
-    > to predict the demand for bike sharing post pandemic.
+- Multiple Linear Regression
+    - to identify the predictors,
+    - to build a model,
+    - to predict the demand for bike sharing post pandemic.
 
 ## Table of Contents
 - [Predict the demand for bike sharing.](#predict-the-demand-for-bike-sharing)
@@ -45,4 +45,4 @@ The Bike sharing company wants to know:
 
 
 ## Contact
-Created by [@kishore-n-george] - feel free to contact me!
+Created by [Kishore](https://github.com/kishore-n-george) - feel free to contact me!
