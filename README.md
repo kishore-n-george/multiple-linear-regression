@@ -17,27 +17,29 @@
 ## General Information
 
 The Bike sharing company wants to know:
-
 - Which variables are significant in predicting the demand for shared bikes.
 - How well those variables describe the bike demands
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- As per our final Model, the top 3 predictor variables that influences the bike booking positively are:
+  - Year
+  - Winter
+  - Temperature
+
+- The predictor that influences the bike booking negatively
+  - Light Snow
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- numpy - version 1.0
-- pandas - version
-- scikitlearn - version 2.0
-- matplotlib - version 3.0
-- seaborn - version
-- statsmodel - version
+- numpy - version 1.21.6
+- pandas - version 1.3.5
+- scikitlearn - version 1.0.2
+- matplotlib - version 3.2.2
+- seaborn - version 0.11.2
+- statsmodels - version 0.12.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
